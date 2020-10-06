@@ -5,11 +5,11 @@ An __open source__ community-driven plaform for African crowd-sourced Startup jo
 
 ## Installation
 
-WIP (To be adding after [issues/5](https://github.com/AfricaHacks/startupsin.africa/issues/5)  is resolved )
+WIP (To be added after [issues/5](https://github.com/AfricaHacks/startupsin.africa/issues/5)  is resolved )
 
 ## Usage
 
-WIP (To be adding after [issues/5](https://github.com/AfricaHacks/startupsin.africa/issues/5) is resolved )
+WIP (To be added after [issues/5](https://github.com/AfricaHacks/startupsin.africa/issues/5) is resolved )
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
